@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\bin\Debug\net6.0\Ascending.Descending.Basic.Loops.exe
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\bin\Debug\net6.0\Ascending.Descending.Basic.Loops.deps.json
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\bin\Debug\net6.0\Ascending.Descending.Basic.Loops.runtimeconfig.json
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\bin\Debug\net6.0\Ascending.Descending.Basic.Loops.dll
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\bin\Debug\net6.0\Ascending.Descending.Basic.Loops.pdb
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.AssemblyInfo.cs
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.dll
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\refint\Ascending.Descending.Basic.Loops.dll
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.pdb
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\Ascending.Descending.Basic.Loops.genruntimeconfig.cache
+C:\Users\andre\source\repos\Ascending.Descending.Basic.Loops\Ascending.Descending.Basic.Loops\obj\Debug\net6.0\ref\Ascending.Descending.Basic.Loops.dll
